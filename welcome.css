@@ -1,0 +1,37 @@
+.part{
+    background-image: url("tech.jpg");
+ background-position: absolute;
+    width: auto;
+    height: 100%;
+    background-size: cover;
+    opacity: 0.7;
+    
+}
+.about{
+    font-style: italic;
+    font-size: medium;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+a:hover{
+    color:black;
+}
+img{
+    width: max-content;
+    height: max-content;
+}
+.imagetext{
+   position: absolute;
+    font-size: xx-large;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+footer{
+    text-align: center;
+    font-style: inherit;
+
+}
+
+.logo{
+    margin-left: 1000px;
+}
